@@ -7,5 +7,7 @@
 
 #include<stdio.h>
 int main(){
+
 int new;
+int new1;
 }
