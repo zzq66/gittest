@@ -9,4 +9,6 @@
 int main(){
 
     int zzqnb;
+
+    int test;
 }
