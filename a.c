@@ -7,6 +7,6 @@
 
 #include<stdio.h>
 int main(){
-
+int q;
     int zzqnb;
 }
