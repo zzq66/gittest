@@ -8,5 +8,5 @@
 #include<stdio.h>
 int main(){
 
-    int zzqnb;
+    int zzqnb1;
 }
