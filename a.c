@@ -2,8 +2,11 @@
 	> File Name: a.c
 	> Author: 
 	> Mail: 
-	> Created Time: 2020年08月15日 星期六 10时45分24秒
+	> Created Time: 2020年08月15日 星期六 10时59分44秒
  ************************************************************************/
 
 #include<stdio.h>
+int main(){
 
+    int zzqnb;
+}
