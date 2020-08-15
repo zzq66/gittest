@@ -7,8 +7,6 @@
 
 #include<stdio.h>
 int main(){
-
-
-    int test;
     int zzqnb1;
+    int zzqnb;
 }
