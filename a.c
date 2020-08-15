@@ -8,11 +8,7 @@
 #include<stdio.h>
 int main(){
 
-<<<<<<< HEAD
-    int zzqnb;
 
     int test;
-=======
     int zzqnb1;
->>>>>>> f34e03549902a2e93fdbd94e1ecafd803be8cc99
 }
